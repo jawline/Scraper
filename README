@@ -1,0 +1,6 @@
+#Repository Scraper
+
+Scrapes packages which depend on specific packages using npm-stats
+
+to install use `npm install`
+to run `node ./src/main.js`
