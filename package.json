@@ -1,0 +1,10 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "NPM repository scraper",
+  "author": "Blake Loring",
+  "dependencies": {
+    "npm-stats": "*"
+  },
+  "main": "src/main.js"
+}
